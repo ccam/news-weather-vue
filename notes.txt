@@ -1,0 +1,9 @@
+News API: https://rss2json.com/#rss_url=http%3A%2F%2Fabc7ny.com%2Ffeed%2F
+Weather API: https://openweathermap.org/forecast5
+^^^ this site is for current and forecast 
+Transit: 
+http://nycpulse.herokuapp.com/api
+
+
+Crypto: 
+cryptowat.ch/docs/api/
